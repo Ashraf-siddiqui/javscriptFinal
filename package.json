@@ -1,0 +1,16 @@
+{
+  "name": "js_framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 60000"
+  },
+  "author": "Ashraf",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^88.0.0",
+    "mocha": "^8.3.0",
+    "selenium-webdriver": "^4.0.0-beta.1"
+  }
+}
